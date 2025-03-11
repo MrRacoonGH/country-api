@@ -57,4 +57,5 @@ fetch("https://restcountries.com/v3.1/all")
   .catch(function (err) {
     console.log("une erreur est survenue", err);
   });
+
   
